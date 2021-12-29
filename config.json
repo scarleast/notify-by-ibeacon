@@ -1,0 +1,11 @@
+{
+    "timeout": 60,
+    "serverchain_receiver": {
+        "SCUxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx": {
+            "bt_addr": "xx:xx:xx:xx:xx:xx",
+            "uuid": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+            "major": 1,
+            "minor": 1
+        }
+    }
+}
